@@ -46,4 +46,5 @@ print(f"El factorial de {numero} es: {factorial(numero)}")
 
 ![image](https://github.com/user-attachments/assets/a19254c7-a053-4052-95cc-8f5c29521b35)
 ![image](https://github.com/user-attachments/assets/e29b22f7-edab-48d0-a84c-aa27eb7d1aab)
+![image](https://github.com/user-attachments/assets/8fae6e76-47f5-47ac-9c20-22e9ef943fe5)
 
